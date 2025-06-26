@@ -10,10 +10,10 @@ Le monde de l’entreprise est un univers codé. Derrière les acronymes, les an
 
 🔍 Pour les non-initiés, ce langage peut paraître intimidant, voire excluant. Pourtant, **maîtriser ce vocabulaire est essentiel** pour :
 
-* 🧠 Comprendre rapidement les échanges professionnels
-* 🗣️ S’exprimer avec impact en réunion, email, ou pitch
-* 📊 Analyser et piloter des projets de manière autonome
-* 🚀 Progresser plus vite dans sa carrière ou son business
+* 🧠 **Comprendre rapidement les échanges professionnels**
+* 🗣️ **S’exprimer avec impact en réunion, email, ou pitch**
+* 📊 **Analyser et piloter des projets de manière autonome**
+* 🚀 **Progresser plus vite dans sa carrière ou son business**
 
 ---
 
@@ -67,27 +67,6 @@ Le monde de l’entreprise est un univers codé. Derrière les acronymes, les an
 | **Audit**             | Contrôle de conformité ou financier  | Préparation de contrôle interne       |
 | **Risk management**   | Anticipation des risques             | Prévenir une défaillance système      |
 
-**Top 5 outils à maîtriser :**
-
-* Google Sheets / Excel (suivi KPIs)
-* Notion ou Confluence (documentation stratégique)
-* Trello ou Jira (planification)
-* Power BI / Tableau (visualisation KPIs)
-* Lucidchart (modélisation vision, roadmap)
-
-**Top 5 bonnes pratiques :**
-
-1. Définir des objectifs trimestriels mesurables
-2. Relier les KPIs aux missions équipes
-3. Mettre à jour les KPIs mensuellement
-4. Associer chaque projet à un ROI attendu
-5. Partager la vision en réunion d’équipe
-
-**2 Retours d’expérience (REX) :**
-
-* Une startup SaaS qui a doublé son chiffre d'affaires en alignant tous ses objectifs via des OKR trimestriels.
-* Une PME a évité un échec produit en analysant le ROI prévisionnel avant le go-to-market.
-
 ---
 
 ## 👥 2. **Collaboration & Organisation d’Équipe**
@@ -111,27 +90,6 @@ Le monde de l’entreprise est un univers codé. Derrière les acronymes, les an
 | **Alignment**     | Alignement stratégique    | Clarifier les rôles en réunion           |
 | **Escalade**      | Remonter un problème      | Gérer les blocages projet                |
 
-**Top 5 outils à maîtriser :**
-
-* Slack / Microsoft Teams (communication)
-* Trello / Jira (gestion agile)
-* Miro (collaboration visuelle)
-* Google Workspace / Office 365 (documents collaboratifs)
-* Loom (communication vidéo asynchrone)
-
-**Top 5 bonnes pratiques :**
-
-1. Tenir des réunions courtes et cadencées (daily 15 min)
-2. Clarifier les rôles via une matrice RACI
-3. Centraliser les documents accessibles à tous
-4. Favoriser l’alignement inter-équipes
-5. Utiliser le feedback pour améliorer les sprints
-
-**2 Retours d’expérience (REX) :**
-
-* Une équipe DevOps a multiplié par deux sa productivité grâce aux réunions daily synchronisées sur Jira.
-* Une agence marketing a supprimé 60 % des emails internes en basculant sur Slack et Miro.
-
 ---
 
 ## 🧠 3. **Amélioration Continue & Innovation**
@@ -149,28 +107,86 @@ Le monde de l’entreprise est un univers codé. Derrière les acronymes, les an
 | **Mindset**       | État d’esprit              | Cultiver la résilience                          |
 | **Toolstack**     | Ensemble d’outils          | Optimiser le travail quotidien                  |
 
-**Top 5 outils à maîtriser :**
+---
 
-* Miro (idéation visuelle)
-* Google Forms / Typeform (recueil de feedback)
-* Notion (centralisation des learnings)
-* Slack + Donut (culture d’entreprise et mindset)
-* Loom (partage rapide d’insights ou démonstrations)
+## 🛍️ 4. **Marketing & Client**
 
-**Top 5 bonnes pratiques :**
+🎯 *Attirer, convaincre, et fidéliser*
 
-1. Recueillir du feedback régulièrement (clients, collègues)
-2. Organiser des rétrospectives même hors contexte agile
-3. Capitaliser les learnings dans un espace partagé
-4. Mettre en avant les quick wins pour motiver
-5. Favoriser une culture de l’expérimentation (test & learn)
-
-**2 Retours d’expérience (REX) :**
-
-* Une startup e-commerce a réduit de 40 % ses retours produits en analysant les feedbacks clients sur la page produit.
-* Un cabinet de conseil a boosté l’innovation interne en instaurant une routine mensuelle de « learning lunch » avec retour d’expérience croisé.
+| Terme             | Définition rapide        | Cas d’usage                          |
+| ----------------- | ------------------------ | ------------------------------------ |
+| **Persona**       | Profil type de client    | Créer une offre ciblée               |
+| **Awareness**     | Notoriété                | Lancer une campagne de marque        |
+| **Reach**         | Portée                   | Mesurer l’exposition d’une campagne  |
+| **Engagement**    | Interaction active       | Suivre les réactions sur les réseaux |
+| **Sampling**      | Essai gratuit de produit | Démontrer la qualité d’un produit    |
+| **Flyers**        | Pub imprimée             | Distribuer localement                |
+| **OOH**           | Affichage urbain         | Louer des panneaux publicitaires     |
+| **PNT**           | Pub non traditionnelle   | Intégration produit dans un contenu  |
+| **Affordability** | Accessibilité prix       | Ajuster une stratégie tarifaire      |
+| **Budget**        | Ressources financières   | Définir les limites d’un projet      |
+| **PR**            | Relations publiques      | Gérer la réputation                  |
+| **Ad Value**      | Valeur de la visibilité  | Évaluer un retour média              |
+| **SoMe**          | Social media             | Gérer les posts Insta/LinkedIn       |
 
 ---
 
-Souhaitez-vous que je continue avec la catégorie **🛍️ Marketing & Client** ?
-Je peux aussi générer un PDF ou un export Notion si tu préfères ce format.
+## 💰 5. **Vente & Conversion**
+
+🎯 *Transformer l’audience en clients fidèles*
+
+| Terme           | Définition rapide                  | Cas d’usage                       |
+| --------------- | ---------------------------------- | --------------------------------- |
+| **Lead**        | Client potentiel                   | Qualifier un contact              |
+| **Funnel**      | Parcours de conversion             | Identifier les points de friction |
+| **Pipeline**    | Opportunités commerciales en cours | Suivre les deals                  |
+| **Conversion**  | Action réalisée par le client      | Optimiser les pages produit       |
+| **Reorder**     | Commande répétée                   | Mesurer la fidélité               |
+| **AOV**         | Valeur panier moyen                | Calculer la rentabilité           |
+| **Freemium**    | Gratuité limitée                   | Attirer avant de vendre           |
+| **SaaS**        | Logiciel en ligne                  | Vendre un service mensuel         |
+| **Churn**       | Taux de départ client              | Identifier les failles de l’offre |
+| **Trials**      | Essai gratuit                      | Séduire avant l’abonnement        |
+| **CTA**         | Appel à l’action                   | Encourager l’achat                |
+| **CTR**         | Taux de clic                       | Évaluer l’efficacité des pubs     |
+| **Open rate**   | Taux d’ouverture mail              | Optimiser un email marketing      |
+| **Bounce rate** | Taux de sortie rapide              | Analyser les pages inefficaces    |
+
+---
+
+## 🧑‍💻 6. **Produit & UX/UI**
+
+🎯 *Concevoir des solutions utiles et agréables*
+
+| Terme            | Définition rapide       | Cas d’usage                      |
+| ---------------- | ----------------------- | -------------------------------- |
+| **MVP**          | Produit minimum viable  | Tester une idée rapidement       |
+| **UX**           | Expérience utilisateur  | Créer un site intuitif           |
+| **UI**           | Interface visuelle      | Design de l’application          |
+| **User journey** | Chemin de l’utilisateur | Identifier les obstacles         |
+| **A/B testing**  | Comparaison de versions | Valider une page d’accueil       |
+| **Seamless**     | Sans friction           | Fluidifier une expérience        |
+| **Sandbox**      | Espace de test isolé    | Expérimenter sans risque         |
+| **Release**      | Nouvelle version        | Déploiement d’une fonctionnalité |
+| **Versioning**   | Historique des versions | Tracer les changements           |
+| **Downtime**     | Indisponibilité         | Gestion des interruptions        |
+| **Bug**          | Erreur logicielle       | Identifier un dysfonctionnement  |
+| **Patch**        | Correction rapide       | Résoudre un incident             |
+
+---
+
+## 🔌 7. **Tech, Intégration & Automatisation**
+
+🎯 *Connecter, automatiser, et fluidifier*
+
+| Terme         | Définition rapide        | Cas d’usage                                |
+| ------------- | ------------------------ | ------------------------------------------ |
+| **API**       | Interface entre outils   | Connecter CRM et site web                  |
+| **Toolstack** | Boîte à outils numérique | Organiser son environnement tech           |
+| **Legacy**    | Ancien système           | Maintenir une base existante               |
+| **Workflow**  | Processus automatisé     | Gagner du temps sur les tâches répétitives |
+| **Rollout**   | Déploiement progressif   | Lancer une mise à jour sans bug            |
+
+---
+
+Souhaitez-vous un **format PDF**, un **template Notion interactif** ou un **poster imprimable** ?
